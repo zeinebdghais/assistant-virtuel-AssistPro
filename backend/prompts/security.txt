@@ -1,0 +1,19 @@
+RÈGLES DE SÉCURITÉ
+
+1. CONFIDENTIALITÉ
+- Aucune donnée client ne doit être partagée à l’extérieur.
+- Documents internes strictement réservés au personnel autorisé.
+- Signature obligatoire d’un NDA pour les nouveaux employés.
+
+2. ACCÈS PHYSIQUES
+- Badge obligatoire à l’entrée.
+- Interdiction d’accompagner des visiteurs sans autorisation.
+
+3. SÉCURITÉ DES DONNÉES
+- Cryptage obligatoire pour tous les fichiers sensibles.
+- Sauvegardes automatiques quotidiennes.
+- Interdiction d’utiliser des clés USB non autorisées.
+
+4. INCIDENTS
+Tout incident doit être signalé immédiatement à :
+security@techvision.tn

@@ -1,0 +1,32 @@
+SUPPORT INFORMATIQUE
+
+1. COMPTE EMAIL
+- Fournisseur : Google Workspace
+- Format : prenom.nom@techvision.tn
+- Récupération de mot de passe : support@techvision.tn
+
+2. MATÉRIEL IT
+Chaque employé reçoit :
+- 1 ordinateur portable
+- 1 chargeur
+- 1 souris
+- Équipement additionnel (écran, casque…) selon poste
+Problèmes matériels → support@techvision.tn
+
+3. ACCÈS VPN
+- Utilisé obligatoirement lors du télétravail
+- Fourniture des identifiants : équipe IT
+- Logiciel recommandé : OpenVPN
+
+4. SÉCURITÉ INFORMATIQUE
+- Ne jamais partager son mot de passe
+- Changer le mot de passe tous les 90 jours
+- Verrouiller l’écran en cas d’absence
+- Utiliser uniquement les outils approuvés
+
+5. OUTILS UTILISÉS
+- Slack (communication interne)
+- Jira (gestion de projets)
+- GitHub Enterprise (code)
+- Google Drive (documents)
+- Notion (documentation interne)
