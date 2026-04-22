@@ -208,7 +208,7 @@ export default function AdminDashboard() {
   }, [faqData, query]);
 
   if (loading)
-    return <div className="p-8 text-center text-lg">Chargement...</div>;
+    return <div className="p-8 text-center text-lg">Chargement....</div>;
 
   return (
     <div className="p-12 bg-gray-50 min-h-screen">
